@@ -221,15 +221,17 @@
        
        ~ Sales Per Box 
       
-        
-       
+  ![Tab 1](https://github.com/user-attachments/assets/a1125f49-2986-4e30-b2f0-2059d30150bf)
+
+ ![Tab 2](https://github.com/user-attachments/assets/024eea99-0b2f-4676-bd89-0ed1619bf0c2)
 
 
 
 
 
 
-###Key Insights:
+
+### Key Insights:
       
       ~ India and UK are the top-performing countries
 
@@ -244,7 +246,7 @@
 
 
 
-###Conclusion:
+## Conclusion:
       
       This project demonstrated how to go from raw data to insightful dashboards using SQL for backend logic, Power BI for real-time interactivity, and Tableau for deep visual storytelling. 
       It offers clear business intelligence for stakeholders in sales performance.
